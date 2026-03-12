@@ -4,4 +4,4 @@ how to run the emulator?
 
 The emulator is a python based script. If you only want to run one emulator you only need to run 
 
-`python wib_emulator_v1.py'
+`python wib_emulator_v1.py`
