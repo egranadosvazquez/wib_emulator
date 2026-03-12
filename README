@@ -1,1 +1,7 @@
 This wib emulator is a python-based program that mimics a real WIB, which is a peace of hardware that receives the information from sensors and then sent it via ZMQ.
+
+how to run the emulator?
+
+The emulator is a python based script. If you only want to run one emulator you only need to run 
+
+python wib_emulator_v1.py
